@@ -6,29 +6,13 @@
   - [Fine-tuned GPT-2 Bot](https://github.com/DataProfunda/GPT-2-TwitterBot)
 - <b>Corrective AI in AlgoTrading</b>
   - [Corrective AI in Trend Following Trading Strategy]([https://github.com/DataProfunda/GPT-2-TwitterBot](https://github.com/DataProfunda/Corrective-AI-in-AlgoTrading))
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>:page_with_curl: Certifications</h2>
+- [Tensorflow Certificate](https://www.credential.net/e818e9db-72ff-48e8-8d1f-2eeaa43b009f#gs.5hkvxo)
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/pl-pl/users/konstantymarczak-7173/credentials/49d5f8d305d85a8f)
+- [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/pl-pl/users/konstantymarczak-7173/credentials/37c91dca4189aa20)
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+I’m currently preparing for Azure Data Scientist (DP-100)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
