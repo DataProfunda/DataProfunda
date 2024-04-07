@@ -5,7 +5,7 @@
 - <b>GPT-2 TwitterBot</b>
   - [Fine-tuned GPT-2 Bot](https://github.com/DataProfunda/GPT-2-TwitterBot)
 - <b>Corrective AI in AlgoTrading</b>
-  - [Corrective AI in Trend Following Trading Strategy]([https://github.com/DataProfunda/GPT-2-TwitterBot](https://github.com/DataProfunda/Corrective-AI-in-AlgoTrading))
+  - [Corrective AI in Trend Following Trading Strategy](https://github.com/DataProfunda/Corrective-AI-in-AlgoTrading)
 
 <h2>:page_with_curl: Certifications</h2>
 - [Tensorflow Certificate](https://www.credential.net/e818e9db-72ff-48e8-8d1f-2eeaa43b009f#gs.5hkvxo)
