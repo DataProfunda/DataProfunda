@@ -4,7 +4,8 @@
 
 - <b>GPT-2 TwitterBot</b>
   - [Fine-tuned GPT-2 Bot](https://github.com/DataProfunda/GPT-2-TwitterBot)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Corrective AI in AlgoTrading</b>
+  - [Corrective AI in Trend Following Trading Strategy]([https://github.com/DataProfunda/GPT-2-TwitterBot](https://github.com/DataProfunda/Corrective-AI-in-AlgoTrading))
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
