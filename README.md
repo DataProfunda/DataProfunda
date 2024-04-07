@@ -8,9 +8,9 @@
   - [Corrective AI in Trend Following Trading Strategy](https://github.com/DataProfunda/Corrective-AI-in-AlgoTrading)
 
 <h2>:page_with_curl: Certifications</h2>
-- [Tensorflow Certificate](https://www.credential.net/e818e9db-72ff-48e8-8d1f-2eeaa43b009f#gs.5hkvxo)
-- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/pl-pl/users/konstantymarczak-7173/credentials/49d5f8d305d85a8f)
-- [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/pl-pl/users/konstantymarczak-7173/credentials/37c91dca4189aa20)
+- [Tensorflow Certificate](https://www.credential.net/e818e9db-72ff-48e8-8d1f-2eeaa43b009f#gs.5hkvxo) <br>
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/pl-pl/users/konstantymarczak-7173/credentials/49d5f8d305d85a8f) <br>
+- [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/pl-pl/users/konstantymarczak-7173/credentials/37c91dca4189aa20) <br>
 
 I’m currently preparing for Azure Data Scientist (DP-100)
 <!--
