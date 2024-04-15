@@ -1,4 +1,4 @@
-<h1>Hi, I'm Konstanty! <br/>Data Scientist</a>, :books: Big Data in Finance Student</a>
+<h1>Hi, I'm Konstanty! <br/>Data Scientist Intern</a>, :books: Big Data in Finance Student</a>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
