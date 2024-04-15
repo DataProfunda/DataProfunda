@@ -11,6 +11,7 @@
 - [Tensorflow Certificate](https://www.credential.net/e818e9db-72ff-48e8-8d1f-2eeaa43b009f#gs.5hkvxo)  <br>
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/pl-pl/users/konstantymarczak-7173/credentials/49d5f8d305d85a8f) <br>
 - [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/pl-pl/users/konstantymarczak-7173/credentials/37c91dca4189aa20) <br>
+- [Bloomberg Market Concepts](https://portal.bloombergforeducation.com/certificates/55DZgbkGJA9ui9KHjsMKN9bA) <br>
 
 I’m currently preparing for Azure Data Scientist (DP-100)
 <!--
