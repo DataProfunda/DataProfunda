@@ -12,6 +12,8 @@
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/pl-pl/users/konstantymarczak-7173/credentials/49d5f8d305d85a8f) <br>
 - [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/pl-pl/users/konstantymarczak-7173/credentials/37c91dca4189aa20) <br>
 - [Bloomberg Market Concepts](https://portal.bloombergforeducation.com/certificates/55DZgbkGJA9ui9KHjsMKN9bA) <br>
+- [Bloomberg Finance Fundamentals](https://portal.bloombergforeducation.com/certificates/26adx9sXi8e9L2YMk2NyKD6E) <br>
+- [Environmental Social Governance](https://portal.bloombergforeducation.com/certificates/nLwRn7LoL7ZUU1jTnFvEBJby) <br>
 
 I’m currently preparing for Azure Data Scientist (DP-100)
 <!--
